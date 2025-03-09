@@ -41,7 +41,9 @@ Reset & Replay — Instantly reset the grid to try new strategies and paths.
 Contributions are welcome! If you have ideas for new features or improvements, feel free to fork the repo, create a branch, and submit a pull request.
 
 📬 Contact
+
 Author: Tom Han
+
 Email: tomhan518@outlook.com
 
 
