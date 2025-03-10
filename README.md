@@ -1,21 +1,21 @@
 🐸 Frog Jump Path Search
-
-It is an interactive puzzle game where a frog must find a valid path across a grid, jumping through all the nodes — but each node can only be visited once! The software is used to find the validated path in a grid map.
+This software is used to find the validated path in a grid map to help users pass a famous small game called frog jump.
+It is an interactive puzzle game where a frog must find a valid path across a grid, jumping through all the stones in a river — but each node can only be visited once! 
 
 📘 Overview
 
-The Frog Jump Game is a fun and challenging application designed to help a frog navigate a grid by discovering a valid sequence of jumps. The generator is used for finding the validate path.Users can customize the game by configuring grid size, selecting jumpable nodes, and setting the frog’s starting position and initial direction.
+The Frog Jump Game is a fun and challenging application designed to help a frog navigate a grid by discovering a valid sequence of jumps. The Search is used for finding the validate path.Users can customize the game by configuring grid size, selecting jumpable nodes, and setting the frog’s starting position and initial direction.
 The software visually calculates and displays a valid path, teaching logical thinking and pathfinding concepts engagingly.
 
 🕹 Game Rules
 1. Starting Point & Initial Direction
 The frog begins at a chosen starting node and jumps in the initially set direction (up, down, left, or right).
 2. Free Movement After First Jump
-After the first jump, the frog can move freely to any neighboring node (up, down, left, or right).
+After the first jump, the frog can move freely to any neighbouring node (up, down, left, or right).
 3. One-Time Visit Per Node
 Each node can only be visited once during a single game session. The frog must find a path that covers all selected nodes without revisiting any of them.
 
-🛠 How to Use the Generator
+🛠 How to Use the Search
 
 1. Set the Map Size
 Enter the desired grid dimensions (e.g., 5 x 5).
@@ -31,6 +31,13 @@ Click the "Generate Path" button to calculate and visualize a valid jump sequenc
 Use the "Clear Path" button to restore the grid,clear path information 
 7. Clear All 
 Use the "Clear All" button to delete the grid, design a new level, or start a fresh session.
+
+About
+This video shows how to use the software.
+
+https://github.com/user-attachments/assets/6ab72e70-d53f-4385-8a27-cb71656fc4f7
+
+
 
 🚀 Features
 Interactive Grid UI — Click to design custom levels.
